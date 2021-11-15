@@ -334,7 +334,7 @@ const __main = function () {
 
     bindEvents()
 
-    slideAutoPlay(2000, 1)
+    // slideAutoPlay(2000, 1)
 }
 
 __main()
